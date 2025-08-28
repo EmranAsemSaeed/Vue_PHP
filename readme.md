@@ -66,7 +66,7 @@ yarn install
 
 
 3.Configure API URL in .env file:
-VITE_API_BASE_URL=http://vue_php.local/  (Vhost)
+VITE_API_BASE_URL=http://localhost:8000
 
 
 4.Start the development server:
@@ -76,8 +76,7 @@ yarn dev
 
 
 5.Open the frontend in your browser:
-http://vue_php.local/
-
+http://localhost:8000
 
 
 Project Structure
