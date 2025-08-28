@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+build/
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# npm / Yarn / pnpm lock files (optional if you want to include them)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Optional: vuepress or other Vue-related temp directories
+.temp/
+.cache/
